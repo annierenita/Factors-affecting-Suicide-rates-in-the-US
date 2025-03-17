@@ -1,1 +1,1 @@
-# Factors-affecting-Suicide-rates-in-the-US
+# Factors affecting Suicide rates in the Unites States.
